@@ -1,0 +1,8 @@
+C:\Users\DrCode\source\repos\DownloadManager\bin\Debug\DownloadManager.exe.config
+C:\Users\DrCode\source\repos\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\DrCode\source\repos\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\DrCode\source\repos\DownloadManager\obj\Debug\DownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\DrCode\source\repos\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\DrCode\source\repos\DownloadManager\obj\Debug\DownloadManager.pdb
+C:\Users\DrCode\source\repos\DownloadManager\obj\Debug\DownloadManager.ProjectInstallerFileDownloadManager.resources
+C:\Users\DrCode\source\repos\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.cache

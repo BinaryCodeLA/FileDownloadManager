@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadManager", "DownloadManager.csproj", "{FE11E734-0360-4847-9605-98B188F286A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFileDownloadManager", "..\UnitTestFileDownloadManager\UnitTestFileDownloadManager.csproj", "{6862AFCA-7F72-44C9-BB74-3DFCA64ADE0E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FileDownLoadManagerSetup", "..\FileDownLoadManagerSetup\FileDownLoadManagerSetup.vdproj", "{3CA4CB90-8487-49D5-B671-A98FA561FAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE11E734-0360-4847-9605-98B188F286A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE11E734-0360-4847-9605-98B188F286A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE11E734-0360-4847-9605-98B188F286A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE11E734-0360-4847-9605-98B188F286A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6862AFCA-7F72-44C9-BB74-3DFCA64ADE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6862AFCA-7F72-44C9-BB74-3DFCA64ADE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6862AFCA-7F72-44C9-BB74-3DFCA64ADE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6862AFCA-7F72-44C9-BB74-3DFCA64ADE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA4CB90-8487-49D5-B671-A98FA561FAC1}.Debug|Any CPU.ActiveCfg = Debug
+		{3CA4CB90-8487-49D5-B671-A98FA561FAC1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA2AA08-F6CD-4D53-97E7-B741B84343F0}
+	EndGlobalSection
+EndGlobal
